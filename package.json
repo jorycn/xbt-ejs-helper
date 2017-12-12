@@ -1,5 +1,5 @@
 {
-  "name": "tmt-ejs-helper",
+  "name": "xbt-ejs-helper",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/willerce/tmt-ejs-helper.git"
+    "url": "https://github.com/jorycn/xbt-ejs-helper.git"
   },
-  "author": "Willerce Zenn",
-  "license": "ISC",
+  "author": "Jory Zhou",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/willerce/tmt-ejs-helper/issues"
+    "url": "https://github.com/jorycn/xbt-ejs-helper/issues"
   },
-  "homepage": "https://github.com/willerce/tmt-ejs-helper",
+  "homepage": "https://github.com/jorycn/xbt-ejs-helper",
   "dependencies": {
     "ejs": "^2.3.1",
     "lodash": "^3.5.0"
